@@ -1,3 +1,5 @@
+# README
+
 # BasketballViz
 
 A dynamic and interactive data visualization of the evolution of the NBA 3-point shot using D3.js 
